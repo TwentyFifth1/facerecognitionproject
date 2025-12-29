@@ -477,11 +477,11 @@ Educational project for Yuan Ze University (IBPI Program)
 
 ## 👨‍💻 Author Contact
 
-**Name**: Tae - 楊晟恩  
-**Student ID**: 1143566  
+**Name**: Felix - 范家豪  
+**Student ID**: 1143550  
 **University**: Yuan Ze University, Taiwan  
 **Program**: International Bachelor's Program in Informatics  
-**Email**: s1143566@mail.yzu.edu.tw
+**Email**: phiphi.pham@outlook.com
 
 ---
 
